@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<catalog>
+	<book id="bk101">
+		<author>Gambardella, Matthew</author>
+		<title>XML Developer's Guide</title>
+		<genre>Computer</genre>
+		<price>44.95</price>
+		<publish_date>2000-10-01</publish_date>
+		<user-rating>
+			<amazon>8</amazon>
+			<goodreads>9</goodreads>
+		</user-rating>
+	</book>
+	<book id="bk102">
+		<author>Ralls, Kim</author>
+		<title>Midnight Rain</title>
+		<genre>Fantasy</genre>
+		<price>5.95</price>
+		<publish_date>2000-12-16</publish_date>
+		<user-rating>
+			<amazon>6</amazon>
+			<goodreads>7</goodreads>
+		</user-rating>
+	</book>
+</catalog>
